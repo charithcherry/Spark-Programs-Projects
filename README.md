@@ -1,8 +1,8 @@
 # Spark-Programs-Projects
 
-## spark program :
+## Spark program :
 ### wordcount program
 
-## recommender system :
+## PySpark Recommender System :
 ### Collaborative filtering 
 
