@@ -7,5 +7,5 @@
 ### Collaborative filtering 
 
 ## Document Classification System in Apache-Spark:
-### Document Classification  
+### Document Classification [Mini Project] 
 
